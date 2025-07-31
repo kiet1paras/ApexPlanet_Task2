@@ -24,5 +24,6 @@
  
  Tools Used:- HTML CSS FIGMA PowerPoint VScode. Google Chrome/Edge
  
- <h3>Live Here- https://kiet1paras.github.io/ApexPlanet_Task1/</h3>
+ <h3>Live Here - https://kiet1paras.github.io/ApexPlanet_Task2/
+</h3>
 
